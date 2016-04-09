@@ -119,11 +119,11 @@ function buildOutputString(days, hours, minutes, seconds) {
     out.push(formatTimeUnit("hour", hours));
   }
   if (minutes != 0) {
-    out.push(formatTimeUnit("minute", minutes));
+    out.push(formatTimeUnit("min", minutes));
   }
-  out.push(formatTimeUnit("second", seconds));
+  out.push(formatTimeUnit("sec", seconds));
 
-  return out.join(", ");
+  return out.join(" ");
 }
 
 function LoadCounter() {
