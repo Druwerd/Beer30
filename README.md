@@ -5,7 +5,7 @@ After a long week's work this web page will remind you to relax and have a
 beer.
 
 ## Demo
-[Beer:30](http://beer30.s3-website-us-west-2.amazonaws.com/)
+[Beer:30](https://dl.dropboxusercontent.com/u/10251244/index.html)
 
 ## Requirements
 - HTML
