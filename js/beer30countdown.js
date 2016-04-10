@@ -142,7 +142,7 @@ function LoadCounter() {
                                         timeObj.minutes,
                                         timeObj.seconds);
 
-    setTimeout("LoadCounter()", 1000);
+    setTimeout("LoadCounter()", 1000); // Reload the counter every second
   }
 
   document.getElementById('countbox').innerHTML = countboxContent;
