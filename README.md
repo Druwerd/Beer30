@@ -1,7 +1,7 @@
 # Beer:30
 
-A web page that counts down to Friday 4:30 pm (otherwise known as Beer:30) every
-week. After a long week's work this web page will remind you to relax and have a
+A web page that counts down to Friday 4:30 pm (otherwise known as Beer:30).
+After a long week's work this web page will remind you to relax and have a
 beer.
 
 ## Demo
